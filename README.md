@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monicabirsan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=monicabirsan&icon=9&color=5)](https://visitcount.itsvg.in)
+<a href="(https://visitcount.itsvg.in/api?id=monicabirsan&icon=9&color=5)](https://visitcount.itsvg.in)></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
