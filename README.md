@@ -10,6 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monicabirsan&theme=radical&hide_border=false)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicabirsan&layout=compact)](https://github.com/monicabirsan/github-readme-stats)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=monicabirsan&icon=9&color=5)](https://visitcount.itsvg.in)
